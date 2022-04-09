@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49493" started-at="2022-04-09T21:56:33 GST" finished-at="2022-04-09T21:57:23 GST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49493" started-at="2022-04-09T21:56:33 GST" finished-at="2022-04-09T21:57:23 GST">
+      <class name="com.demo.testcases.TestCase2$TestCase1">
+        <test-method status="PASS" signature="setUpBrowser(java.lang.String)[pri:0, instance:com.demo.testcases.TestCase2$TestCase1@47ef968d]" name="setUpBrowser" is-config="true" duration-ms="12329" started-at="2022-04-09T21:56:33 GST" finished-at="2022-04-09T21:56:46 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="doVerifyTitle()[pri:0, instance:com.demo.testcases.TestCase2$TestCase1@47ef968d]" name="doVerifyTitle" duration-ms="43" started-at="2022-04-09T21:56:46 GST" finished-at="2022-04-09T21:56:46 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doVerifyTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demo.testcases.TestCase2$TestCase1@47ef968d]" name="tearDown" is-config="true" duration-ms="2408" started-at="2022-04-09T21:56:46 GST" finished-at="2022-04-09T21:56:48 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpBrowser(java.lang.String)[pri:0, instance:com.demo.testcases.TestCase2$TestCase1@47ef968d]" name="setUpBrowser" is-config="true" duration-ms="10066" started-at="2022-04-09T21:56:48 GST" finished-at="2022-04-09T21:56:58 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="doVerifyURL()[pri:0, instance:com.demo.testcases.TestCase2$TestCase1@47ef968d]" name="doVerifyURL" duration-ms="21" started-at="2022-04-09T21:56:58 GST" finished-at="2022-04-09T21:56:58 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doVerifyURL -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demo.testcases.TestCase2$TestCase1@47ef968d]" name="tearDown" is-config="true" duration-ms="1837" started-at="2022-04-09T21:56:58 GST" finished-at="2022-04-09T21:57:00 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demo.testcases.TestCase2$TestCase1 -->
+      <class name="com.demo.testcases.TestCase1">
+        <test-method status="PASS" signature="setUpBrowser(java.lang.String)[pri:0, instance:com.demo.testcases.TestCase1@614ddd49]" name="setUpBrowser" is-config="true" duration-ms="9899" started-at="2022-04-09T21:57:00 GST" finished-at="2022-04-09T21:57:10 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="doVerifyTitle()[pri:0, instance:com.demo.testcases.TestCase1@614ddd49]" name="doVerifyTitle" duration-ms="26" started-at="2022-04-09T21:57:10 GST" finished-at="2022-04-09T21:57:10 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doVerifyTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demo.testcases.TestCase1@614ddd49]" name="tearDown" is-config="true" duration-ms="1819" started-at="2022-04-09T21:57:10 GST" finished-at="2022-04-09T21:57:12 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpBrowser(java.lang.String)[pri:0, instance:com.demo.testcases.TestCase1@614ddd49]" name="setUpBrowser" is-config="true" duration-ms="9056" started-at="2022-04-09T21:57:12 GST" finished-at="2022-04-09T21:57:21 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="doVerifyURL()[pri:0, instance:com.demo.testcases.TestCase1@614ddd49]" name="doVerifyURL" duration-ms="25" started-at="2022-04-09T21:57:21 GST" finished-at="2022-04-09T21:57:21 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doVerifyURL -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demo.testcases.TestCase1@614ddd49]" name="tearDown" is-config="true" duration-ms="1892" started-at="2022-04-09T21:57:21 GST" finished-at="2022-04-09T21:57:23 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demo.testcases.TestCase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

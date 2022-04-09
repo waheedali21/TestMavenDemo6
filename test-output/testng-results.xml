@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="6" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47125" started-at="2022-04-09T21:26:38 GST" finished-at="2022-04-09T21:27:25 GST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47125" started-at="2022-04-09T21:26:38 GST" finished-at="2022-04-09T21:27:25 GST">
+      <class name="com.demo.testcases.TestCase2$TestCase1">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.demo.testcases.TestCase2$TestCase1@9a7504c]" name="setUp" is-config="true" duration-ms="12364" started-at="2022-04-09T21:26:38 GST" finished-at="2022-04-09T21:26:50 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="doVerifyTitle()[pri:0, instance:com.demo.testcases.TestCase2$TestCase1@9a7504c]" name="doVerifyTitle" duration-ms="56" started-at="2022-04-09T21:26:50 GST" finished-at="2022-04-09T21:26:50 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doVerifyTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demo.testcases.TestCase2$TestCase1@9a7504c]" name="tearDown" is-config="true" duration-ms="1855" started-at="2022-04-09T21:26:50 GST" finished-at="2022-04-09T21:26:52 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.demo.testcases.TestCase2$TestCase1@9a7504c]" name="setUp" is-config="true" duration-ms="10638" started-at="2022-04-09T21:26:52 GST" finished-at="2022-04-09T21:27:03 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="doVerifyURL()[pri:0, instance:com.demo.testcases.TestCase2$TestCase1@9a7504c]" name="doVerifyURL" duration-ms="29" started-at="2022-04-09T21:27:03 GST" finished-at="2022-04-09T21:27:03 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doVerifyURL -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demo.testcases.TestCase2$TestCase1@9a7504c]" name="tearDown" is-config="true" duration-ms="1237" started-at="2022-04-09T21:27:03 GST" finished-at="2022-04-09T21:27:04 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demo.testcases.TestCase2$TestCase1 -->
+      <class name="com.demo.testcases.TestCase1">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.demo.testcases.TestCase1@2c039ac6]" name="setUp" is-config="true" duration-ms="9423" started-at="2022-04-09T21:27:04 GST" finished-at="2022-04-09T21:27:14 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="doVerifyTitle()[pri:0, instance:com.demo.testcases.TestCase1@2c039ac6]" name="doVerifyTitle" duration-ms="13" started-at="2022-04-09T21:27:14 GST" finished-at="2022-04-09T21:27:14 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doVerifyTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demo.testcases.TestCase1@2c039ac6]" name="tearDown" is-config="true" duration-ms="1365" started-at="2022-04-09T21:27:14 GST" finished-at="2022-04-09T21:27:15 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.demo.testcases.TestCase1@2c039ac6]" name="setUp" is-config="true" duration-ms="8898" started-at="2022-04-09T21:27:15 GST" finished-at="2022-04-09T21:27:24 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="doVerifyURL()[pri:0, instance:com.demo.testcases.TestCase1@2c039ac6]" name="doVerifyURL" duration-ms="29" started-at="2022-04-09T21:27:24 GST" finished-at="2022-04-09T21:27:24 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doVerifyURL -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demo.testcases.TestCase1@2c039ac6]" name="tearDown" is-config="true" duration-ms="1154" started-at="2022-04-09T21:27:24 GST" finished-at="2022-04-09T21:27:25 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demo.testcases.TestCase1 -->
+      <class name="com.demo.testcases.TestCase2">
+        <test-method status="PASS" signature="loadConfig()[pri:0, instance:com.demo.testcases.TestCase2@7a187f14]" name="loadConfig" is-config="true" duration-ms="15" started-at="2022-04-09T21:26:38 GST" finished-at="2022-04-09T21:26:38 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+      </class> <!-- com.demo.testcases.TestCase2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
